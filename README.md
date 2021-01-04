@@ -1,9 +1,9 @@
-# YouTube APlayer
+# Yaplayer
 Do you need to play audio from a YouTube video?  
 You can use this little plugin. <br>
 
 ### How to use
-1. Download source code from [latest release](https://github.com/firestormxyz/yaplayer/releases/latest).  
+1. Download source code from [latest release](https://github.com/devpelux/yaplayer/releases/latest).  
 
 2. Load the files on your host provider.  
 
@@ -41,22 +41,20 @@ If you want, is possible to loads the files from GitHub, by any cdn provider (fo
 Simply insert this tag `<script>` instead of the previous one:  
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/firestormxyz/yaplayer@1.0/minified/yaplayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/devpelux/yaplayer@1.0/minified/yaplayer.min.js"></script>
 ```
 
 Then add the extra ***`data-loadfrom`*** parameter to the loading `<div>`:  
 
 ```html
-<div ... data-loadfrom="https://cdn.jsdelivr.net/gh/firestormxyz/yaplayer@1.0/minified/" ... ></div>
+<div ... data-loadfrom="https://cdn.jsdelivr.net/gh/devpelux/yaplayer@1.0/minified/" ... ></div>
 ```
 
 In this way both the javascript file and the svg images will be loaded from GitHub. <br><br>
 
-### Demo
-You can see a demonstration here: [https://fire-space.weebly.com/yaplayer.html](https://fire-space.weebly.com/yaplayer.html) <br><br>
 
 ### License
-By firestormxyz (Salvatore Peluso)  
+By devpelux (Salvatore Peluso)  
 Licensed under The Unlicense.
 
-<a href="https://github.com/firestormxyz/yaplayer/blob/master/LICENSE"><img title="Licensed under The Unlicense" width="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg"></a>
+<a href="https://github.com/devpelux/yaplayer/blob/master/LICENSE"><img title="Licensed under The Unlicense" width="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg"></a>
