@@ -57,4 +57,4 @@ In this way both the javascript file and the svg images will be loaded from GitH
 By devpelux (Salvatore Peluso)  
 Licensed under The Unlicense.
 
-<a href="https://github.com/devpelux/yaplayer/blob/master/LICENSE"><img title="Licensed under The Unlicense" width="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg"></a>
+<a href="https://github.com/devpelux/yaplayer/blob/main/LICENSE"><img title="Licensed under The Unlicense" width="32" src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg"></a>
